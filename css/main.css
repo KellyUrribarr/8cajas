@@ -1,0 +1,64 @@
+.UNO	{
+	width: 100px;
+	height: 100px;
+	background-color: #686868;
+	border: 1px solid;
+	border-color: #000000;
+	margin-bottom: 10px;
+		}
+
+.DOSPADRE	{
+	width: 380px;
+	height: auto;
+	border:1px solid;
+	background-color: #686868;
+	border-color: #000000;
+	position: relative;
+	margin-bottom: 10px;
+			}
+
+.DOS1, .DOS2, .DOS3	{
+	width: 100px;
+	height: 100px;
+	background-color: #686868;
+	border: 1px solid;
+	border-color: #000000;
+	position: relative;
+	display: inline-block;
+					}
+
+.DOS1	{
+	margin:10px;
+		}
+
+.DOS2	{
+	margin:10px;
+		}
+
+.DOS3	{
+	margin:10px;
+ 		}
+
+.TRES, .CUATRO	{
+	width: 100px;
+	height: 100px;
+	background-color: #686868;
+	border: 1px solid;
+	border-color: #000000;
+	display: inline-block;
+	margin-bottom: 10px;
+				}
+
+.CUATRO	{
+	margin-left: 10px;
+        }
+
+.CINCO	{
+	width: 100px;
+	height: 100px;
+	background-color: #686868;
+	border: 1px solid;
+	border-color: #000000;
+	margin-bottom: 10px;
+		}
+
